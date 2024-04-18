@@ -10,4 +10,6 @@ Team Members:
 5. Somya Kumar - 21CS30050
 
 ## Introduction
-This project is a submission for the Database Management Systems course at IIT Kharagpur. The project is a Query Optimiser which takes a query as input and returns a more optimized query. The project is implemented in Python.
+This project is a submission for the Database Management Systems course at IIT Kharagpur. The project is a Query Optimiser which takes a query as input and returns a more optimized query. The project is implemented in C.
+
+[Link](https://youtu.be/9zBi2tT0KL4?si=WjEKJFrB4A3AcnNp)
